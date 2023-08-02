@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![banner](https://t-ub3.github.io/assets/images/banner.png)
 
 <!--
