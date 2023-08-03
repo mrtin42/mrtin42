@@ -1,4 +1,5 @@
 # hi, i'm tube
+![banner](https://tub3.uk/assets/images/profile.png)
 15 // chilean + british // he/him  
 
 🔭 - currently working on [LondonTransit](https://www.londontransit.xyz/), a bot which integrates TfL service information with Discord<br>
