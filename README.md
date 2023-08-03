@@ -1,7 +1,5 @@
 # hi, i'm tube
 ***
-![banner](https://t-ub3.github.io/assets/images/profile.png)
-***
 15 // chilean + british // he/him  
 
 🔭 - currently working on [LondonTransit](https://www.londontransit.xyz/), a bot which integrates TfL service information with Discord<br>
@@ -10,8 +8,8 @@
 ***
 ###### contact me
 
-email: [contact@tubee.dev](mailto:contact@tubee.dev)
-discord: tu.be
+email: [contact@tubee.dev](mailto:contact@tubee.dev)<br>
+discord: tu.be<br>
 twitter: @t_ub3
 
 
