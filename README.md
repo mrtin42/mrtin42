@@ -1,4 +1,4 @@
-![banner](https://t-ub3.github.io/assets/images/banner.png)
+![banner](https://tubee.dev/assets/images/image01.svg?v=fb1669d1)
 
 <!--
 **t-ub3/t-ub3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
