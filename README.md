@@ -1,6 +1,6 @@
 # hi, i'm tube
 ***
-![banner](https://tub3.uk/assets/images/profile.png)
+![banner](https://t-ub3.github.io/assets/images/profile.png)
 ***
 15 // chilean + british // he/him  
 
