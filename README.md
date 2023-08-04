@@ -1,6 +1,9 @@
 <h1 align="center">hi, i'm tube</h1>
+
 ![banner](https://github.com/t-ub3/t-ub3.github.io/blob/e5a1a447aa2a27ace9f5a924e31f916f47b87ec7/assets/images/profile.png)
+
 ***
+
 15 // chilean + british // he/him  
 
 🔭 - currently working on [LondonTransit](https://www.londontransit.xyz/), a bot which integrates TfL service information with Discord<br>
