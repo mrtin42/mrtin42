@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm tube</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/488061232461381643?showDisplayName=true&idleMessage=chillaxing)](https://discord.com/users/488061232461381643)
+![banner](https://github.com/t-ub3/t-ub3.github.io/blob/e5a1a447aa2a27ace9f5a924e31f916f47b87ec7/assets/images/profile.png)
 
 ***
 
