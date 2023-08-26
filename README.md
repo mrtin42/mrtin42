@@ -1,21 +1,20 @@
-<h1 align="center">hi, i'm tube</h1>
-
-![banner](https://github.com/t-ub3/t-ub3.github.io/blob/e5a1a447aa2a27ace9f5a924e31f916f47b87ec7/assets/images/profile.png)
+<img src="./github-metrics.svg" alt="metrics" align="left">
+  
+15 // chilean + british // he/him 
 
 ***
 
-15 // chilean + british // he/him  
+🔭 - currently working on [LondonTransit](https://www.londontransit.xyz/), a bot which integrates TfL service information with Discord - planning to do similar with more transport modes<br><br>
+🧠 - fluent in (in order from best to least) JavaScript (mainly node.js), HTML, CSS and python<br><br>
+💡 - fun fact: i have insanely accurate memory of the entire london underground network. i can get you from A to B in no time. or at least thats what grandma says i can do...
 
-🔭 - currently working on [LondonTransit](https://www.londontransit.xyz/), a bot which integrates TfL service information with Discord<br>
-🧠 - intermediately fluent in JavaScript and Python<br>
-🌱 - currently learning HTML and CSS
 ***
+
 ###### contact me
 
-email: [contact@tubee.dev](mailto:contact@tubee.dev)<br>
+email: [martin@tub3.uk](mailto:martin@tub3.uk)<br>
 discord: tu.be<br>
-twitter: @t_ub3
-
+twitter: [@t_ub3](https://twitter.com/t_ub3)
 
 <!--
 **t-ub3/t-ub3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
