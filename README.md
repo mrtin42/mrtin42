@@ -12,7 +12,7 @@
 
 ###### contact me
 
-email: [martin@tub3.uk](mailto:martin@tub3.uk)<br>
+email: [martin@mbfrias.co.uk](mailto:martin@mbfrias.co.uk)<br>
 discord: tu.be<br>
 twitter: [@t_ub3](https://twitter.com/t_ub3)
 
