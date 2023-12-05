@@ -14,8 +14,8 @@ discord: tu.be<br>
 twitter: [@t_ub3](https://twitter.com/t_ub3)
 
 ***
-<img src="./main.svg" align='left'>
-<img src="./music.svg" align='right'>
+<img src="./main.svg" align='left' width="48%">
+<img src="./music.svg" align='right' width="48%">
 
 
 <!--
