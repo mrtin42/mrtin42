@@ -2,15 +2,15 @@
 
 <p align="center">15 // chilean + british // london, uk // he/him</p>
 
-🔭 - currently working on [LondonTransit](https://www.londontransit.org.uk/), a bot which integrates TfL service information with Discord, [FORMALISER](https://formaliser.net), a backend for website contact forms, and numerous websites for individuals/communities - either in next.js or raw html<br>
+🔭 - currently working on [LondonTransit](https://www.londontransit.org.uk/), a bot which integrates TfL service information with Discord, [FORMALISER](https://formaliser.net), a backend for website contact forms, and [???R?E??DA?C???T????ED](https://www.youtube.com/watch?v=dQw4w9WgXcQ), a ???R?E??DA?C???T????ED<br>
 🧠 - fluent in (in order from best to least) JavaScript / TypeScript (mainly serverside runtimes and framworks like node and nextjs), HTML, CSS and python<br>
 💡 - fun fact: i have insanely accurate memory of the entire london underground network. i can get you from A to B in no time. or at least thats what grandma says i can do...
 
 ## contact me
 
-webform on [my website](https://marrtin.com)<br>
-email: [martin@mbfrias.co.uk](mailto:martin@mbfrias.co.uk)<br>
-discord: tu.be<br>
+website form: [click here!!](https://martin.blue/contact)<br>
+email: [martin@mbfrias.co.uk](mailto:me@martin.blue)<br>
+discord: [tu.be](https://discord.com/users/488061232461381643)<br>
 twitter: [@t_ub3](https://twitter.com/t_ub3)
 
 ***
