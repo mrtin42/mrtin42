@@ -9,7 +9,7 @@
 ## contact me
 
 website form: [click here!!](https://martin.blue/contact)<br>
-email: [martin@mbfrias.co.uk](mailto:me@martin.blue)<br>
+email: [me@martin.blue](mailto:me@martin.blue)<br>
 discord: [tu.be](https://discord.com/users/488061232461381643)<br>
 twitter: [@t_ub3](https://twitter.com/t_ub3)
 
