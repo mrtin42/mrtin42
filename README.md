@@ -11,7 +11,7 @@
 website form: [click here!!](https://martin.blue/contact)<br>
 email: [me@martin.blue](mailto:me@martin.blue)<br>
 discord: [tu.be](https://discord.com/users/488061232461381643)<br>
-twitter: [@t_ub3](https://twitter.com/t_ub3)
+twitter: [dm.new/martin](https://dm.new/martin)
 
 ***
 <img src="./main.svg" align='left' width="45%"><img src="./music.svg" align='right' width="45%">
