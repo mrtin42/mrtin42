@@ -10,7 +10,7 @@
 
 website form: [click here!!](https://martin.blue/contact)<br>
 email: [me@martin.blue](mailto:me@martin.blue)<br>
-discord: [tu.be](https://discord.com/users/488061232461381643)<br>
+discord: [tu.be](https://mbfr.me/discord)<br>
 twitter: [dm.new/martin](https://dm.new/martin)
 
 ***
