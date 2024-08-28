@@ -2,7 +2,7 @@
 
 <p align="center">15 // chilean + british // london, uk // he/him</p>
 
-🔭 - currently working on [LondonTransit](https://www.londontransit.org.uk/), a bot which integrates TfL service information with Discord, [FORMALISER](https://formaliser.net), a backend for website contact forms, and [???R?E??DA?C???T????ED](https://www.youtube.com/watch?v=dQw4w9WgXcQ), a ???R?E??DA?C???T????ED<br>
+🔭 - currently working on [LondonTransit](https://www.londontransit.org.uk/), a bot which integrates TfL service information with Discord, [FORMALISER](https://formaliser.net), a backend for website contact forms, and ive given up on mlinx.co because serverless stuff is expensive<br>
 🧠 - fluent in (in order from best to least) JavaScript / TypeScript (mainly serverside runtimes and framworks like node and nextjs), HTML, CSS and python<br>
 💡 - fun fact: i have insanely accurate memory of the entire london underground network. i can get you from A to B in no time. or at least thats what grandma says i can do...
 
