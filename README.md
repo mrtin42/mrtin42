@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/488061232461381643)](https://discord.com/users/488061232461381643)
+
 <h1 align="center">MAЯTÍN</h1>
 
 <p align="center">15 :: chilean + british :: london, uk</p>
