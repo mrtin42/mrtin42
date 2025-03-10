@@ -2,7 +2,7 @@
 
 <h1 align="center">MAЯTÍN</h1>
 
-<p align="center">15 :: chilean + british :: london, uk</p>
+<p align="center">17 :: chilean + british :: london, uk</p>
 
 🔭 - currently working on [LondonTransit](https://www.londontransit.org.uk/), a bot which integrates TfL service information with Discord, [FORMALISER](https://formaliser.net), a backend for website contact forms, and ive given up on mlinx.co because serverless stuff is expensive<br>
 🧠 - fluent in (in order from best to least) JavaScript / TypeScript (mainly serverside runtimes and framworks like node and nextjs), HTML, CSS and python<br>
