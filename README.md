@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/488061232461381643)](https://discord.com/users/488061232461381643)
+[![Discord Presence](https://lanyard.cnrad.dev/api/488088713100918784)](https://discord.com/users/488061232461381643)
 
 <h1 align="center">MAЯTÍN</h1>
 
