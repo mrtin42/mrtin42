@@ -10,12 +10,9 @@ i'm a student in :uk: **london, uk** studying for a-levels in **computer science
 
 i build web apps, discord bots, whatever else i find fun.
 
-[![instagram](https://img.shields.io/badge/instagram-__md3v-DD2A7B?style=flat&logo=instagram)](https://instagram.com/@_md3v)
-[![twitter](https://img.shields.io/badge/twitter-@t__ub3-08a0e9?style=flat&logo=x)](https://x.com/t_ub3)
-[![dsicord](https://img.shields.io/badge/discord-@2ube-5865F2?style=flat&logo=discord)](https://discord.com/users/488088713100918784)
-
-[![website](https://img.shields.io/badge/website-md3v.co.uk-03BDFF?style=flat)](https://md3v.co.uk)
-[![email](https://img.shields.io/badge/email_me-martin@mbfrias.co.uk-F02CF8?style=flat)](mailto:martin@mbfrias.co.uk)
+[![instagram](https://img.shields.io/badge/__md3v-DD2A7B?style=flat&logo=instagram)](https://instagram.com/@_md3v)
+[![twitter](https://img.shields.io/badge/@t__ub3-08a0e9?style=flat&logo=x)](https://x.com/t_ub3)
+[![dsicord](https://img.shields.io/badge/@2ube-ffffff?style=flat&logo=discord)](https://discord.com/users/488088713100918784)
 
 <hr>
 <div align="left">
@@ -50,37 +47,10 @@ i build web apps, discord bots, whatever else i find fun.
 - [***monzocord*** **––>**](https://github.com/mrtin42/monzocord)<br>a selfhost-only discord bot which enables you to connect your monzo account to discord, letting you view account information in a read-only manner.<br> <img  alt="discord.js" src="https://img.shields.io/badge/discord.js-5865F2?style=flat"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat">
 - [***listening streamer*** **––>**](https://github.com/mrtin42/listening-streamer)<br>a selfhosted websocket server which polls your last.fm account every few seconds to stream changes to what youre listening to to a connected client in a simple, compact format.<br> <img  alt="node.js" src="https://img.shields.io/badge/node.js-339933"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat"> <img alt="betterstack uptime" src="https://uptime.betterstack.com/status-badges/v1/monitor/1o6ub.svg">
 
-<!--
+<hr>
 
-my current main project is [LondonTransit](https://www.londontransit.org.uk), a bot which brings up-to-date london travel information using [transport for london's api](https://api-portal.tfl.gov.uk).
-i do work on other odds and sods though, such as some custom-commisioned discord bots and some web apps i make for fun
 
-im currently learning swift and i hope to make one or two productivity apps for iOS and other apple platforms.
+[![website](https://img.shields.io/badge/website-md3v.co.uk-03BDFF?style=flat)](https://md3v.co.uk)
+[![email](https://img.shields.io/badge/email_me-martin@mbfrias.co.uk-F02CF8?style=flat)](mailto:martin@mbfrias.co.uk)
 
-</div>
-<!-- 🛠️ i'm currently working on LondonTransit, a discord bot which provides up-to-date travel information via [Transport for London's API](https://api-portal.tfl.gov.uk)
-
-<!-- 🌱 i'm learning -->
-
-<!--
-**mrtin42/mrtin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-🏗️
-![next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
--->
+<!-- moved these down here as they actually overflowed on the profile ar of the readme
