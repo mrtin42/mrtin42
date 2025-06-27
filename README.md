@@ -14,6 +14,8 @@ i build web apps, discord bots, whatever else i find fun.
 [![twitter](https://img.shields.io/badge/@t__ub3-08a0e9?style=flat&logo=x)](https://x.com/t_ub3)
 [![dsicord](https://img.shields.io/badge/@2ube-ffffff?style=flat&logo=discord)](https://discord.com/users/488088713100918784)
 
+[![website](https://img.shields.io/badge/website-md3v.co.uk-03BDFF?style=flat&logo=safari)](https://md3v.co.uk)
+
 <hr>
 <div align="left">
 <img align="right" src="https://readme.mbfrias.com/api/top-langs/?username=mrtin42&layout=compact&theme=tokyonight">
@@ -43,14 +45,6 @@ i build web apps, discord bots, whatever else i find fun.
 
 ### check out some of my personal favourite projects of mine:
 
-- [***LondonTransit*** **––>**](https://www.londontransit.org.uk)<br>a discord bot which provides up-to-date information about london's transport network to your server.<br> <img alt="discord.js" src="https://img.shields.io/badge/discord.js-5865F2?style=flat"> <img src="https://img.shields.io/badge/ts-007ACC?style=flat"> [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/14mic.svg)](https://status.mbfrias.com)
-- [***monzocord*** **––>**](https://github.com/mrtin42/monzocord)<br>a selfhost-only discord bot which enables you to connect your monzo account to discord, letting you view account information in a read-only manner.<br> <img  alt="discord.js" src="https://img.shields.io/badge/discord.js-5865F2?style=flat"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat">
-- [***listening streamer*** **––>**](https://github.com/mrtin42/listening-streamer)<br>a selfhosted websocket server which polls your last.fm account every few seconds to stream changes to what youre listening to to a connected client in a simple, compact format.<br> <img  alt="node.js" src="https://img.shields.io/badge/node.js-339933"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat"> <img alt="betterstack uptime" src="https://uptime.betterstack.com/status-badges/v1/monitor/1o6ub.svg">
-
-<hr>
-
-
-[![website](https://img.shields.io/badge/website-md3v.co.uk-03BDFF?style=flat)](https://md3v.co.uk)
-[![email](https://img.shields.io/badge/email_me-martin@mbfrias.co.uk-F02CF8?style=flat)](mailto:martin@mbfrias.co.uk)
-
-<!-- moved these down here as they actually overflowed on the profile ar of the readme
+- [***LondonTransit ––*>**](https://www.londontransit.org.uk)<br>a discord bot which provides up-to-date information about london's transport network to your server.<br> <img alt="discord.js" src="https://img.shields.io/badge/discord.js-5865F2?style=flat"> <img src="https://img.shields.io/badge/ts-007ACC?style=flat"> [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/14mic.svg)](https://status.mbfrias.com)
+- [***monzocord––*>**](https://github.com/mrtin42/monzocord)<br>a selfhost-only discord bot which enables you to connect your monzo account to discord, letting you view account information in a read-only manner.<br> <img  alt="discord.js" src="https://img.shields.io/badge/discord.js-5865F2?style=flat"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat">
+- [***listening streamer ––*>**](https://github.com/mrtin42/listening-streamer)<br>a selfhosted websocket server which polls your last.fm account every few seconds to stream changes to what youre listening to to a connected client in a simple, compact format.<br> <img  alt="node.js" src="https://img.shields.io/badge/node.js-339933"> <img alt="typescript" src="https://img.shields.io/badge/ts-007ACC?style=flat"> <img alt="betterstack uptime" src="https://uptime.betterstack.com/status-badges/v1/monitor/1o6ub.svg">
